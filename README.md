@@ -1,10 +1,5 @@
 <h1 align="center">🐉 makarove / vibe coder </h1>
 
-<p align="center">
-  <a href="https://github.com/makarove009"><img src="https://img.shields.io/badge/Lang-English-2ea44f?style=for-the-badge" alt="English" /></a>
-  <a href="https://github.com/makarove009/makarove009/blob/main/README.ru.md"><img src="https://img.shields.io/badge/Язык-Русский-1f2328?style=for-the-badge" alt="Русский" /></a>
-</p>
-
 <p align="center">✨ vibe coding with <b>Codex</b> (main), <b>Antigravity</b> &amp; <b>Claude Code</b></p>
 
 ###
