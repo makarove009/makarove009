@@ -65,9 +65,9 @@
 ###
 
 <div align="center">
-  <a href="https://misso.info.gf/donate/?method=sbp"><img src="./assets/btn-support-ru.svg?v=2" height="44" alt="Support (RU)" /></a>
+  <a href="https://misso.info.gf/donate/?method=sbp"><img src="./assets/btn-support-ru.svg?v=3" height="44" alt="Support (RU)" /></a>
   <img width="12" />
-  <a href="https://misso.info.gf/donate/?method=crypto"><img src="./assets/btn-support-eu.svg?v=2" height="44" alt="Support (EU / Crypto)" /></a>
+  <a href="https://misso.info.gf/donate/?method=crypto"><img src="./assets/btn-support-eu.svg?v=3" height="44" alt="Support (EU / Crypto)" /></a>
 </div>
 
 ###
