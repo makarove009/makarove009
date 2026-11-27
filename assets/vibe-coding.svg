@@ -28,6 +28,21 @@
       <stop offset="0%" stop-color="#eb6b2c" stop-opacity="0.32"/>
       <stop offset="100%" stop-color="#eb6b2c" stop-opacity="0"/>
     </linearGradient>
+    <clipPath id="agyMainClip">
+      <path d="M322 156 C332 146 337 100 350 100 C363 100 368 146 378 156 C381 159 375 163 370 159 C362 151 359 136 350 136 C341 136 338 151 330 159 C325 163 319 159 322 156 Z"/>
+    </clipPath>
+    <radialGradient id="agyG" cx="333" cy="128" r="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#34a853"/>
+      <stop offset="100%" stop-color="#34a853" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="agyY" cx="347" cy="106" r="20" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#fbbc05"/>
+      <stop offset="100%" stop-color="#fbbc05" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="agyR" cx="366" cy="118" r="21" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ea4335"/>
+      <stop offset="100%" stop-color="#ea4335" stop-opacity="0"/>
+    </radialGradient>
     <style>
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
       @keyframes bobCodex {
@@ -106,8 +121,11 @@
   <!-- ==================== 2. ANTIGRAVITY (A-ARCH CHARACTER) ==================== -->
   <text x="420" y="61" text-anchor="middle" fill="#60a5fa" font-size="10.5" font-weight="bold" class="mono">ANTIGRAVITY</text>
 
-  <g class="agy-body">
-    <path d="M320 158 C331 148 336 96 350 96 C364 96 369 148 380 158 C383 161 376 165 370 160 C362 153 359 138 350 138 C341 138 338 153 330 160 C324 165 317 161 320 158 Z" fill="url(#agyLogo)"/>
+  <g class="agy-body" clip-path="url(#agyMainClip)">
+    <rect x="315" y="95" width="70" height="75" fill="#2b7de9"/>
+    <rect x="315" y="95" width="70" height="75" fill="url(#agyG)"/>
+    <rect x="315" y="95" width="70" height="75" fill="url(#agyY)"/>
+    <rect x="315" y="95" width="70" height="75" fill="url(#agyR)"/>
   </g>
   <ellipse cx="350" cy="169" rx="20" ry="2.5" fill="#4285f4" opacity="0.45"/>
 
