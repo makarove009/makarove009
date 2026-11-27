@@ -64,6 +64,14 @@
 
 ###
 
+<div align="center">
+  <a href="https://misso.info.gf/donate/?method=sbp"><img src="./assets/btn-support-ru.svg" height="44" alt="Поддержать RU (СБП)" /></a>
+  <img width="12" />
+  <a href="https://misso.info.gf/donate/?method=crypto"><img src="./assets/btn-support-eu.svg" height="44" alt="Поддержать Европа (Крипта)" /></a>
+</div>
+
+###
+
 <p align="center">
   <img src="./assets/vibe-coding.svg?v=3" alt="Codex, Antigravity and Claude Code vibe coding animation" width="800" />
 </p>
