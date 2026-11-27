@@ -1,6 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 46" width="230" height="46">
-  <rect x="1" y="1" width="228" height="44" rx="12" fill="#141321" stroke="#2e2c48" stroke-width="1.5"/>
-  <circle cx="26" cy="23" r="12" fill="#f7931a"/>
-  <text x="26" y="28" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="800">₿</text>
-  <text x="46" y="27.5" fill="#f3f4f6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="600">Поддержать Европа</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 46" width="228" height="46">
+  <rect x="1" y="1" width="226" height="44" rx="12" fill="#141321" stroke="#2e2c48" stroke-width="1.5"/>
+  <circle cx="25" cy="22" r="12" fill="#26a17b"/>
+  <rect x="18" y="15" width="14" height="2.6" rx="0.6" fill="#ffffff"/>
+  <rect x="23.6" y="17" width="2.8" height="11" rx="0.6" fill="#ffffff"/>
+  <ellipse cx="25" cy="22.5" rx="7.5" ry="2.2" fill="none" stroke="#ffffff" stroke-width="1.3"/>
+  <circle cx="34" cy="30" r="5.5" fill="#eb0029" stroke="#141321" stroke-width="1.3"/>
+  <polygon points="31.5,28 36.8,29.2 33.8,33" fill="none" stroke="#ffffff" stroke-width="0.9" stroke-linejoin="round"/>
+  <text x="48" y="27.5" fill="#f3f4f6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="600">Support (EU / Crypto)</text>
 </svg>
