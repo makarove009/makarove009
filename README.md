@@ -1,4 +1,4 @@
-<h1 align="center">🐉 makarove009 / vibe coder </h1>
+<h1 align="center">🐉 makarove / vibe coder </h1>
 
 <p align="center">✨ vibe coding with <b>Codex</b> (main), <b>Antigravity</b> &amp; <b>Claude Code</b></p>
 
@@ -50,6 +50,16 @@
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="./assets/logo-codex.svg" height="40" alt="Codex logo" />
+  <img width="12" />
+  <img src="./assets/logo-antigravity.svg" height="40" alt="Antigravity logo" />
+  <img width="12" />
+  <img src="./assets/logo-claude.svg" height="40" alt="Claude logo" />
 </div>
 
 ###
