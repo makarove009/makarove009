@@ -1,6 +1,6 @@
 <h1 align="center">🐉 makarove009 / vibe coder </h1>
 
-<p align="center">✨ vibe coding with <b>Claude Code</b> &amp; <b>Codex</b></p>
+<p align="center">✨ vibe coding with <b>Codex</b> (main), <b>Antigravity</b> &amp; <b>Claude Code</b></p>
 
 ###
 
@@ -61,5 +61,5 @@
 ###
 
 <p align="center">
-  <img src="./assets/vibe-coding.svg" alt="Claude Code and Codex vibe coding animation" width="760" />
+  <img src="./assets/vibe-coding.svg" alt="Codex, Antigravity and Claude Code vibe coding animation" width="800" />
 </p>
