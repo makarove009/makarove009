@@ -107,13 +107,7 @@
   <text x="420" y="61" text-anchor="middle" fill="#60a5fa" font-size="10.5" font-weight="bold" class="mono">ANTIGRAVITY</text>
 
   <g class="agy-body">
-    <rect x="318" y="132" width="10" height="9" rx="4" fill="#34a853"/>
-    <rect x="372" y="132" width="10" height="9" rx="4" fill="#ea4335"/>
-    <path d="M324 162 C332 142 336 96 350 96 C364 96 368 142 376 162 C368 164 363 145 350 142 C337 145 332 164 324 162 Z" fill="url(#agyLogo)"/>
-    <circle cx="344" cy="116" r="2.8" fill="#11101b"/>
-    <circle cx="356" cy="116" r="2.8" fill="#11101b"/>
-    <circle cx="345" cy="115" r="1" fill="#ffffff"/>
-    <circle cx="357" cy="115" r="1" fill="#ffffff"/>
+    <path d="M320 158 C331 148 336 96 350 96 C364 96 369 148 380 158 C383 161 376 165 370 160 C362 153 359 138 350 138 C341 138 338 153 330 160 C324 165 317 161 320 158 Z" fill="url(#agyLogo)"/>
   </g>
   <ellipse cx="350" cy="169" rx="20" ry="2.5" fill="#4285f4" opacity="0.45"/>
 
