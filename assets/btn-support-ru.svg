@@ -1,13 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 46" width="190" height="46">
-  <rect x="1" y="1" width="188" height="44" rx="12" fill="#141321" stroke="#2e2c48" stroke-width="1.5"/>
-  <g transform="translate(15, 9) scale(0.95)">
-    <polygon points="2,4 2,24 8,19 8,9" fill="#5b57a2"/>
-    <polygon points="2,4 16,13 12,16 2,9" fill="#8c449b"/>
-    <polygon points="15,2 15,11 26,11 19,2" fill="#f58220"/>
-    <polygon points="19,2 26,11 15,15 15,11" fill="#ed1c24"/>
-    <polygon points="2,24 26,11 26,16 8,24" fill="#00a8e8"/>
-    <polygon points="15,18 26,18 15,28" fill="#4cb748"/>
-    <polygon points="15,18 20,23 15,28" fill="#007934"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 212 48" width="212" height="48">
+  <defs>
+    <linearGradient id="sbpBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#181728"/>
+      <stop offset="100%" stop-color="#11101b"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="210" height="46" rx="12" fill="url(#sbpBg)" stroke="#323050" stroke-width="1.5"/>
+  <rect x="10" y="9" width="30" height="30" rx="8" fill="#ffffff"/>
+  <g transform="translate(14.5, 11.5) scale(0.285)">
+    <path d="M21.6426 42.9922L10.4164 49.4648L0 67.5024L42.4913 42.9922H21.6426Z" fill="#874691"/>
+    <path d="M53.7176 24.5103L42.4914 30.9829L32.075 49.0205L74.5504 24.5103H53.7176Z" fill="#DA1844"/>
+    <path d="M42.4914 18.0376L32.075 0V36.9795V49.0205V86L42.4914 67.9624V18.0376Z" fill="#F9B229"/>
+    <path d="M32.075 0L42.4914 18.0376L53.7176 24.5102H74.5504L32.075 0Z" fill="#F07F1A"/>
+    <path d="M32.075 36.9795V86L42.4914 67.9623V55.0013L32.075 36.9795Z" fill="#72B22C"/>
+    <path d="M53.7176 61.4897L42.4914 67.9624L32.075 86L74.5504 61.4897H53.7176Z" fill="#00743E"/>
+    <path d="M0 18.4819V67.5024L10.4164 49.4648V36.5196L0 18.4819Z" fill="#5F5A94"/>
+    <path d="M32.0749 36.9796V36.9955L0 18.4819L10.4164 36.5196L53.7176 61.4899H74.5504L32.0749 36.9796Z" fill="#0D90CD"/>
   </g>
-  <text x="49" y="27.5" fill="#f3f4f6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="600">Support (RU)</text>
+  <text x="50" y="29" fill="#f3f4f6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14.5" font-weight="600">Support (RU · SBP)</text>
 </svg>
