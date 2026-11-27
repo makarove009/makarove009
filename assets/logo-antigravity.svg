@@ -1,13 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
   <defs>
-    <linearGradient id="aGrad" x1="15%" y1="90%" x2="85%" y2="10%">
-      <stop offset="0%" stop-color="#2563eb"/>
-      <stop offset="32%" stop-color="#22c55e"/>
-      <stop offset="55%" stop-color="#facc15"/>
-      <stop offset="78%" stop-color="#ef4444"/>
-      <stop offset="100%" stop-color="#3b82f6"/>
-    </linearGradient>
+    <clipPath id="agyClip">
+      <path d="M11.5 34.5 C16.5 29 19 10.5 24 10.5 C29 10.5 31.5 29 36.5 34.5 C38 36 35.5 38 33.5 36.2 C29.5 32.5 28 25.5 24 25.5 C20 25.5 18.5 32.5 14.5 36.2 C12.5 38 10 36 11.5 34.5 Z"/>
+    </clipPath>
+    <radialGradient id="gGreen" cx="25%" cy="48%" r="42%">
+      <stop offset="0%" stop-color="#34a853"/>
+      <stop offset="100%" stop-color="#34a853" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gYellow" cx="46%" cy="16%" r="35%">
+      <stop offset="0%" stop-color="#fbbc05"/>
+      <stop offset="100%" stop-color="#fbbc05" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gRed" cx="76%" cy="34%" r="36%">
+      <stop offset="0%" stop-color="#ea4335"/>
+      <stop offset="100%" stop-color="#ea4335" stop-opacity="0"/>
+    </radialGradient>
   </defs>
   <rect width="48" height="48" rx="11" fill="#f3f4f6"/>
-  <path d="M11 36 C16 32 18.5 11 24 11 C29.5 11 32 32 37 36 C38.5 37.2 35.5 39 33 36.8 C29.5 33.5 28 27 24 27 C20 27 18.5 33.5 15 36.8 C12.5 39 9.5 37.2 11 36 Z" fill="url(#aGrad)"/>
+  <g clip-path="url(#agyClip)">
+    <rect width="48" height="48" fill="#2b7de9"/>
+    <rect width="48" height="48" fill="url(#gGreen)"/>
+    <rect width="48" height="48" fill="url(#gYellow)"/>
+    <rect width="48" height="48" fill="url(#gRed)"/>
+  </g>
 </svg>
