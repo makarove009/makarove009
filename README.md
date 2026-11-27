@@ -57,7 +57,7 @@
 <div align="center">
   <img src="./assets/logo-codex.svg" height="40" alt="Codex logo" />
   <img width="12" />
-  <img src="./assets/logo-antigravity.svg?v=3" height="40" alt="Antigravity logo" />
+    <img src="./assets/logo-antigravity.svg?v=4" height="40" alt="Antigravity logo" />
   <img width="12" />
   <img src="./assets/logo-claude.svg?v=3" height="40" alt="Claude logo" />
 </div>
