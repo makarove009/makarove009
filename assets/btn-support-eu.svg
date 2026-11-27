@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 46" width="230" height="46">
+  <rect x="1" y="1" width="228" height="44" rx="12" fill="#141321" stroke="#2e2c48" stroke-width="1.5"/>
+  <circle cx="26" cy="23" r="12" fill="#f7931a"/>
+  <text x="26" y="28" text-anchor="middle" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="800">₿</text>
+  <text x="46" y="27.5" fill="#f3f4f6" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="600">Поддержать Европа</text>
+</svg>
