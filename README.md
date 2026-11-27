@@ -57,13 +57,13 @@
 <div align="center">
   <img src="./assets/logo-codex.svg" height="40" alt="Codex logo" />
   <img width="12" />
-  <img src="./assets/logo-antigravity.svg" height="40" alt="Antigravity logo" />
+  <img src="./assets/logo-antigravity.svg?v=3" height="40" alt="Antigravity logo" />
   <img width="12" />
-  <img src="./assets/logo-claude.svg?v=2" height="40" alt="Claude logo" />
+  <img src="./assets/logo-claude.svg?v=3" height="40" alt="Claude logo" />
 </div>
 
 ###
 
 <p align="center">
-  <img src="./assets/vibe-coding.svg?v=2" alt="Codex, Antigravity and Claude Code vibe coding animation" width="800" />
+  <img src="./assets/vibe-coding.svg?v=3" alt="Codex, Antigravity and Claude Code vibe coding animation" width="800" />
 </p>
